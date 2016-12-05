@@ -1,3 +1,4 @@
 <?php
-define('db','db2');
+define('db','as400d');
+define('host','host');
 ?>
